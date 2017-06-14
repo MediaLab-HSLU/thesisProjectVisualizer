@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Simon_Zangger" size="1024.000000 802.000000" />
+    <ImageTarget name="Raisa_Durandi" size="1280.000000 720.000000" />
+    <ImageTarget name="Dario_Lanfranconi" size="939.000000 768.000000" />
+    <ImageTarget name="Thomas_Egli" size="615.000000 768.000000" />
+    <ImageTarget name="Flurina_Stuppan" size="448.000000 319.000000" />
+    <ImageTarget name="Meret_Buser" size="1158.000000 825.868164" />
+    <ImageTarget name="Sigrist_Monika" size="650.000000 442.000000" />
+    <ImageTarget name="Andrea_Stalder" size="2376.000000 1082.000000" />
+    <ImageTarget name="Kilian_Bannwart" size="1772.000000 1179.487549" />
+    <ImageTarget name="Severin_BIgler" size="750.000000 756.000000" />
+  </Tracking>
+</QCARConfig>
